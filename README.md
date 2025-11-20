@@ -1,6 +1,6 @@
-# Palantir Prep
+# Practice
 
-Interview practice problems and technical presentations for Palantir interview preparation.
+Interview practice problems and technical presentations.
 
 ## Contents
 
@@ -44,7 +44,7 @@ python anagram_interview.py
 
 ## GitHub Pages
 
-This repository is configured for GitHub Pages. Visit the live site to view all presentations and access the problems.
+This repository is configured for GitHub Pages. Visit the live site at: https://ashwaryeyadav.github.io/practice/
 
 ## License
 
